@@ -1,0 +1,15 @@
+#container {
+	margin: 10px 0px 10px 0px;
+	background-color: skyblue;
+	padding: 50px 50px 50px 50px;
+	position: center;
+	border-radius: 30px;
+}
+
+input {
+	padding: 30px 40px 30px 40px;
+	border-radius: 20px;
+	border-color: green;
+	border-width: 3px; 
+}
+
